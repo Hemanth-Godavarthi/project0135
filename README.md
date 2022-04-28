@@ -1,11 +1,11 @@
 # Installation
 ```
-go install github.com/Hemanth-Godavarthi/project0133@latest
+go install github.com/Hemanth-Godavarthi/project0135@latest
 ```
 ---
 
 # Usage
 
 ```
-project0133 -id <facebook_id> / <username> / <email> / <phone_number>
+project0135 -id <facebook_id> / <username> / <email> / <phone_number>
 ```
