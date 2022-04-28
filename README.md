@@ -1,6 +1,6 @@
 # Installation
 ```
-go install github.com/Hemanth-Godavarthi/project0133
+go install github.com/Hemanth-Godavarthi/project0133@latest
 ```
 ---
 
